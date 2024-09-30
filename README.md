@@ -1,4 +1,4 @@
-![matheus-lds-high-resolution-logo-white-transparent (1)](https://github.com/user-attachments/assets/579ae80e-56c7-4cf1-8d9f-6e5cf38da1b3)
+![matheus-lds-high-resolution-logo-white-transparent (3)](https://github.com/user-attachments/assets/8b24350b-c2aa-4e84-89ff-9dc068bfa972)
 
 Olá, meu nome é Matheus Lizot de Souza, tenho 16 anos e estou estudando programação há cerca de 1 ano e meio. Durante esse tempo, concluí alguns cursos básicos em Python, Java, HTML5 e CSS3, e SQL Server.
 
